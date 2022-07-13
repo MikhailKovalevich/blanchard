@@ -1,1 +1,1 @@
-# blanchard
+https://mikhailkovalevich.github.io/blanchard/
